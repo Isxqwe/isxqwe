@@ -1,16 +1,45 @@
-## Hi there 👋
+# Isaque Felinto
 
-<!--
-**Isxqwe/isxqwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile robotics developer focused on building complete robotic systems — from mechanical design to embedded electronics and autonomous behavior.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Focus
+
+* Autonomous rescue robots (OBR / competition)
+* Computer vision (OpenCV)
+* Embedded systems (ESP32, Raspberry Pi)
+* PCB design and integration
+* Mechanical design (Fusion 360)
+
+---
+
+## 🚀 Projects
+
+* Autonomous rescue robot (OBR) with vision-based navigation and victim detection
+* Computer vision system for environment and object perception
+* Modular robotic platform for rapid prototyping and testing
+
+---
+
+## 🧠 Stack
+
+* C++ (robot control)
+* Python (vision & prototyping)
+* Java (legacy systems)
+* OpenCV
+* ROS2
+* Fusion 360 (CAD)
+* PCB design (KiCad / Altium - if applicable)
+
+---
+
+## 🏢 Organization
+
+* ORC Robotics → https://github.com/ORC-Robotics
+
+---
+
+## 📍 Current focus
+
+Developing high-performance robotic systems combining mechanics, electronics and intelligent control.
