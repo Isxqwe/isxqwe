@@ -37,7 +37,7 @@ Mobile robotics developer focused on building complete robotic systems — from 
 ## 🏢 Organization
 
 * ORC Robotics → https://github.com/ORC-Robotics
-* iSprint Studio → [https://github.com/](https://github.com/iSprint3D)
+* iSprint Studio → https://github.com/iSprint3D
 
 ---
 
