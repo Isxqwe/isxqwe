@@ -10,7 +10,7 @@ Mobile robotics developer focused on building complete robotic systems — integ
 
 ## ⚙️ Focus
 
-- Autonomous rescue robots (OBR and WorldSkills / competition)
+- Autonomous robots (OBR and WorldSkills / competition)
 - Computer vision for navigation and perception
 - Embedded systems and hardware integration
 - PCB design and electronics
