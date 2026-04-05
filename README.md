@@ -50,3 +50,17 @@ Mobile robotics developer focused on building complete robotic systems — integ
 ## 📍 Current focus
 
 Developing high-performance autonomous robots combining mechanics, electronics and intelligent control.
+
+---
+
+## 🏁 Execution
+
+<div align="center">
+
+<i>“Acelera, porque ainda tem muito pela frente.”</i>  
+<br/>
+<b>— Ayrton Senna</b>
+
+</div>
+
+---
