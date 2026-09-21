@@ -22,7 +22,7 @@ Mobile robotics developer focused on autonomous systems, computer vision and emb
 
 ## 🚀 Projects
 
-### 🤖 Soul — Autonomous Rescue Robot
+### 🚑 Soul — Autonomous Rescue Robot
 Autonomous rescue robot developed at **ORC Robotics** for **OBR / RoboCup Rescue**.
 Combines computer vision, embedded systems, autonomous navigation and mechanical design in a competition-validated platform.
 > Core algorithms and competition-specific implementations are private.
@@ -50,7 +50,7 @@ Research and development in computer vision, autonomous navigation, embedded sys
 
 ---
 
-## 🏢 Organization
+## 🏢 Organizations
 
 - ORC Robotics → https://github.com/ORC-Robotics  
 - iSprint Studio → https://github.com/iSprint3D  
