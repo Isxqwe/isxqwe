@@ -10,19 +10,29 @@ Mobile robotics developer focused on building complete robotic systems — integ
 
 ## ⚙️ Focus
 
-- Autonomous robots (OBR and WorldSkills / competition)
-- Computer vision for navigation and perception
+- Autonomous mobile robotics
+- Computer vision and real-time perception
 - Embedded systems and hardware integration
+- Autonomous navigation and motion control
 - PCB design and electronics
-- Mechanical design and prototyping
+- Mechanical design and rapid prototyping
+- Competition robotics
 
 ---
 
 ## 🚀 Projects
 
-- Autonomous rescue robot (OBR) using vision-based navigation and victim detection
-- Computer vision system for real-time environment perception
-- Modular robotic platform for rapid prototyping and testing
+### 🤖 Soul — Autonomous Rescue Robot
+Autonomous rescue robot developed at **ORC Robotics** for **OBR / RoboCup Rescue**.
+Combines computer vision, embedded systems, autonomous navigation and mechanical design in a competition-validated platform.
+> Core algorithms and competition-specific implementations are private.
+
+### 🏆 WorldSkills Robotics
+Development of autonomous robotic systems for **WorldSkills**, with focus on precision, reliability and hardware/software integration.
+> Competition-specific implementations are private.
+
+### 🧠 Robotics R&D
+Research and development in computer vision, autonomous navigation, embedded systems and robotic prototyping.
 
 ---
 
