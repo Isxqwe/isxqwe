@@ -1,6 +1,6 @@
 # Isaque Felinto
 
-Mobile robotics developer focused on building complete robotic systems — integrating mechanical design, embedded electronics and autonomous control.
+Mobile robotics developer focused on autonomous systems, computer vision and embedded robotics — building complete robotic platforms from mechanical design and electronics to perception and autonomous control.
 
 [![ORC Robotics](https://img.shields.io/badge/ORC%20Robotics-1976B6?style=for-the-badge)](https://github.com/ORC-Robotics)
 [![iSprint Studio](https://img.shields.io/badge/iSprint%20Studio-2E2E2E?style=for-the-badge)](https://github.com/iSprint3D)
@@ -36,7 +36,7 @@ Research and development in computer vision, autonomous navigation, embedded sys
 
 ---
 
-## 🧠 Stack
+## 🛠️ Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +59,7 @@ Research and development in computer vision, autonomous navigation, embedded sys
 
 ## 📍 Current focus
 
-Developing high-performance autonomous robots combining mechanics, electronics and intelligent control.
+Autonomous navigation, real-time perception and competition robotics.
 
 ---
 
