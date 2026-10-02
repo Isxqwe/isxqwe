@@ -50,13 +50,6 @@ Research and development in computer vision, autonomous navigation, embedded sys
 
 ---
 
-## 🏢 Organizations
-
-- ORC Robotics → https://github.com/ORC-Robotics  
-- iSprint Studio → https://github.com/iSprint3D  
-
----
-
 ## 🏁 Execution
 
 <div align="center">
