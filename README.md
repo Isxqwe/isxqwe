@@ -57,12 +57,6 @@ Research and development in computer vision, autonomous navigation, embedded sys
 
 ---
 
-## 📍 Current focus
-
-Autonomous navigation, real-time perception and competition robotics.
-
----
-
 ## 🏁 Execution
 
 <div align="center">
