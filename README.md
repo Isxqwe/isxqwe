@@ -2,8 +2,6 @@
 
 Mobile robotics developer focused on autonomous systems, computer vision and embedded robotics — building complete robotic platforms from mechanical design and electronics to perception and autonomous control.
 
----
-
 ## ⚙️ Focus
 
 - Autonomous mobile robotics
@@ -13,10 +11,9 @@ Mobile robotics developer focused on autonomous systems, computer vision and emb
 - PCB design and electronics
 - Mechanical design and rapid prototyping
 - Competition robotics
-
 ---
-
 ## 🚀 Projects
+
 
 ### 🚑 Soul — Autonomous Rescue Robot
 Autonomous rescue robot developed at **ORC Robotics** for **RoboCup Rescue**.
@@ -31,13 +28,11 @@ Development of autonomous robotic systems for **WorldSkills**, with focus on pre
 Research and development in computer vision, autonomous navigation, embedded systems and robotic prototyping.
 
 ---
-
 ## 🛠️ Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=esphome&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -45,7 +40,6 @@ Research and development in computer vision, autonomous navigation, embedded sys
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 
 ---
-
 ## 🏁 Execution
 
 <div align="center">
