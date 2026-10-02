@@ -2,10 +2,6 @@
 
 Mobile robotics developer focused on autonomous systems, computer vision and embedded robotics — building complete robotic platforms from mechanical design and electronics to perception and autonomous control.
 
-[![ORC Robotics](https://img.shields.io/badge/ORC%20Robotics-1976B6?style=for-the-badge)](https://github.com/ORC-Robotics)
-[![iSprint Studio](https://img.shields.io/badge/iSprint%20Studio-2E2E2E?style=for-the-badge)](https://github.com/iSprint3D)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaquedelimaf@gmail.com)
-
 ---
 
 ## ⚙️ Focus
