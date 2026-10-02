@@ -23,9 +23,9 @@ Mobile robotics developer focused on autonomous systems, computer vision and emb
 ## 🚀 Projects
 
 ### 🚑 Soul — Autonomous Rescue Robot
-Autonomous rescue robot developed at **ORC Robotics** for **OBR / RoboCup Rescue**.
+Autonomous rescue robot developed at **ORC Robotics** for **RoboCup Rescue**.
 Combines computer vision, embedded systems, autonomous navigation and mechanical design in a competition-validated platform.
-> Core algorithms and competition-specific implementations are private.
+Responsible for software, electronics, PCB design, mechanical CAD, 3D printing and manufacturing.
 
 ### 🏆 WorldSkills Robotics
 Development of autonomous robotic systems for **WorldSkills**, with focus on precision, reliability and hardware/software integration.
