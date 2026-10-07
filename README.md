@@ -6,7 +6,7 @@ I build robotic platforms end to end: mechanical design, electronics and PCBs, f
 
 ### What I work on
 
-- **Autonomy** — navigation, motion control and robot software with ROS 2
+- **Autonomy** — navigation, motion control and robot software, in ROS 2 or standalone C++
 - **Perception** — computer vision, YOLO object detection and model training
 - **Embedded** — firmware and hardware integration on STM32, ESP32 and Raspberry Pi
 - **Hardware** — PCB design, mechanical CAD and rapid prototyping
