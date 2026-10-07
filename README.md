@@ -8,7 +8,7 @@ I build robotic platforms end to end: mechanical design, electronics and PCBs, f
 
 - **Autonomy** — navigation, motion control and robot software with ROS 2
 - **Perception** — computer vision and real-time processing
-- **Embedded** — firmware and hardware integration on ESP32 and Raspberry Pi
+- **Embedded** — firmware and hardware integration on STM32, ESP32 and Raspberry Pi
 - **Hardware** — PCB design, mechanical CAD and rapid prototyping
 
 ### Stack
@@ -24,7 +24,7 @@ I build robotic platforms end to end: mechanical design, electronics and PCBs, f
   </tr>
   <tr>
     <td><b>Embedded</b></td>
-    <td><img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=esphome&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /></td>
+    <td><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" /> <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=esphome&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /></td>
   </tr>
   <tr>
     <td><b>Design</b></td>
