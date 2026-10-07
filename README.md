@@ -7,7 +7,7 @@ I build robotic platforms end to end: mechanical design, electronics and PCBs, f
 ### What I work on
 
 - **Autonomy** — navigation, motion control and robot software with ROS 2
-- **Perception** — computer vision and real-time processing
+- **Perception** — computer vision, YOLO object detection and model training
 - **Embedded** — firmware and hardware integration on STM32, ESP32 and Raspberry Pi
 - **Hardware** — PCB design, mechanical CAD and rapid prototyping
 
@@ -16,11 +16,11 @@ I build robotic platforms end to end: mechanical design, electronics and PCBs, f
 <table>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></td>
+    <td><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></td>
   </tr>
   <tr>
-    <td><b>Robotics</b></td>
-    <td><img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></td>
+    <td><b>Robotics &amp; AI</b></td>
+    <td><img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO" /></td>
   </tr>
   <tr>
     <td><b>Embedded</b></td>
